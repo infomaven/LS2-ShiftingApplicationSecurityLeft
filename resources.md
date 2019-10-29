@@ -41,22 +41,22 @@
 
 
 
-## Build Systems with focus on Security test automation
+## Build Systems that support Security test automation
 ##### CircleCI (cloudNative)
     https://circleci.com/
     https://github.com/DevSlop/pixi-crs/blob/master/.circleci/config.yml
 
 ##### GitLab Cloudnative, Fully Integrated Build services
-    _free version_
-    ##### A model for DIY test integration
-    https://medium.com/@sean_bradley/auto-devops-with-gitlab-ci-and-docker-compose-f931233f080f
+    - free version
+        A model for DIY test integration
+        https://medium.com/@sean_bradley/auto-devops-with-gitlab-ci-and-docker-compose-f931233f080f
 
-    _paid version_ (built-in SAST and DAST testing. IAST and RASP are on the roadmap )
-    ##### Security Deep Dive (GitLab Ultimate version)
-    https://www.youtube.com/watch?v=k4vEJnGYy84
+    - paid version_ (built-in SAST and DAST testing. IAST and RASP are on the roadmap )
+        Security Deep Dive (GitLab Ultimate version)
+        https://www.youtube.com/watch?v=k4vEJnGYy84
 
-    ##### Official security capability docs
-    https://docs.gitlab.com/ee/user/application_security/
+        Official security capability docs
+        https://docs.gitlab.com/ee/user/application_security/
 
 
 ##### GoCD Continuous Delivery  (Pipeline-based)
