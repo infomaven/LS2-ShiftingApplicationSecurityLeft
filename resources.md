@@ -1,6 +1,6 @@
 # OPEN SOURCE / FREE RESOURCES
 
-## Apps for hacking 
+## Apps for hacking (yes, it is legal to attack these!)
 ##### Gruyere Cheese
 https://google-gruyere.appspot.com/
 
@@ -9,24 +9,8 @@ https://www.youtube.com/watch?v=td-2rN4PgRw&feature=youtube
 https://github.com/DevSlop/Pixi.git
 https://www.owasp.org/index.php/OWASP_DevSlop_Project
 
-
-
-
-## Databases & Lists
-##### Sourceclear vulnerability DB
-https://www.sourceclear.com/vulnerability-database/search#_
-
-##### Snyk vulnerability DB
-https://snyk.io/vuln
-
-##### OWASP tool recommendations
-https://www.owasp.org/index.php/Free_for_Open_Source_Application_Security_Tools
-
-###### Open source tool recommendations
-https://learn.techbeacon.com/units/47-powerful-open-source-app-sec-tools-you-should-consider
-
-##### NIST vulnerability database
-https://nvd.nist.gov/vuln/search
+##### OWASP collection
+https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
 
 
 
@@ -49,17 +33,53 @@ https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devo
 
 https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-2
 
+##### Automated Security Testing ( a good overview with several entry points)
+https://devops.com/automated-security-testing-continuous-delivery-pipeline/
 
 
 
-## Culture Shift
+
+## Build Systems with focus on Security test automation
+##### CircleCI (cloudNative)
+https://circleci.com/
+https://github.com/DevSlop/pixi-crs/blob/master/.circleci/config.yml
+
+##### GitLab Cloudnative, Fully Integrated Build services
+_free version_
+##### A model for DIY test integration
+https://medium.com/@sean_bradley/auto-devops-with-gitlab-ci-and-docker-compose-f931233f080f
+
+_paid version_ (built-in SAST and DAST testing. IAST and RASP are on the roadmap )
+##### Security Deep Dive (GitLab Ultimate version)
+https://www.youtube.com/watch?v=k4vEJnGYy84
+
+##### Official security capability docs
+https://docs.gitlab.com/ee/user/application_security/
+
+
+##### GoCD Continuous Delivery  (Pipeline-based)
+https://wilsonmar.github.io/gocd/
+https://ledentsov.de/tag/gocd/
+https://blog.ippon.tech/gocd-with-jhipster/
+https://www.gocd.org/
+
+
+##### Jenkins Continuous Integration demo pipeline w/security tests
+https://www.youtube.com/watch?v=okSoQAuuo6Y
+
+
+
+## Culture Changes
 ##### Read: The Phoenix Project 
 
 ##### CrossFunctional collaboration
 https://threatmodeler.com/how-to-create-cross-functional-collaboration/
 
-##### Thoughts on data classification  
-https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-1
+##### DevSecOps Guide
+https://www.plutora.com/blog/devsecops-guide
+
+##### DevSecOps using Open Source Software
+https://www.softwaresecured.com/open-source-apps-in-devsecops-pipeline/
 
 ##### Great questions to ask about data  while designing 
 https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-2
@@ -76,8 +96,6 @@ https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sd
 ##### Shift left testing
 https://www.stickyminds.com/article/shift-left-approach-software-testing
 
-##### DevSecOps 
-https://www.softwaresecured.com/open-source-apps-in-devsecops-pipeline/
 
 ##### Raise the bar on security awareness
 https://www.devopsdigest.com/train-security-champions-in-cross-functional-devops-teams-1
@@ -85,17 +103,54 @@ https://www.devopsdigest.com/train-security-champions-in-cross-functional-devops
 
 
 
-## Secure Code
+## Databases & Lists (Security-Related)
+##### Sourceclear vulnerability DB
+https://www.sourceclear.com/vulnerability-database/search#_
+
+##### Snyk vulnerability DB
+https://snyk.io/vuln
+
+##### OWASP tool recommendations
+https://www.owasp.org/index.php/Free_for_Open_Source_Application_Security_Tools
+
+###### Open source tool recommendations
+https://learn.techbeacon.com/units/47-powerful-open-source-app-sec-tools-you-should-consider
+
+##### NIST vulnerability database (CVEs)
+https://nvd.nist.gov/vuln/search
+
+##### NIST Cybersecurity Framework Primer
+https://blog.sqreen.com/what-nist-recommends-for-cybersecurity-and-applications/
+
+###### Security checklists
+https://www.sqreen.com/checklists
+
+
+
+## Public Speaking & Influence
+##### How to be a more convincing speaker
+https://www.youtube.com/watch?v=02EJ1IdC6tE
+
+##### "Train the Trainer" (Shift Left Like a Boss)
+https://www.youtube.com/watch?v=bWjPl-cKzFs
+
+
+
+
+## Secure Pracetices & Code
 ##### Coursera
 https://www.classcentral.com/course/secure-coding-principles-14478
 
 ##### Cybrary
 https://www.cybrary.it/course/secure-coding/
 
+##### Data Classification & Security
+https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-1
+
 ##### RedHat
 https://developers.redhat.com/topics/secure-coding/
 
-##### SAFECode 
+##### SAFECode (all free all the time)
 https://safecode.org/training/
 
 ##### 50 online resources for devs to learn fundamentals
@@ -152,20 +207,26 @@ https://github.com/thoughtworks/talisman
 ##### Therapist git prePush hook
 https://therapist.readthedocs.io/en/latest/overview.html
 
-##### Classic Open Source Tool Lists
-
-
-
-## Security Audits / Reports 
 
 
 
 
+## Security Testing Frameworks
+##### Reapsaw [AUTOMATION]
+https://github.com/dowjones/reapsaw/wiki 
 
-## Public Speaking & Advocacy
-##### How to be a more convincing speaker
-https://www.youtube.com/watch?v=02EJ1IdC6tE
+##### BDD-Security Testing Framework  [BLACKBOX][DAST][CI/CD][JAVA][AUTOMATION]
+https://iriusrisk.com/open-source/
 
-##### "Train the Trainer" (Shift Left Like a Boss)
-https://www.youtube.com/watch?v=bWjPl-cKzFs
+##### Mittn Security Testing Framework [PYTHON][CI/CD][BDD][AUTOMATION]
+(requires Burp Suite Professional version)
+https://github.com/F-Secure/mittn
+
+##### Guantlt Ruggedization Framework [BDD][RUBY][BLACKBOX][CI/CD][AUTOMATION]
+https://github.com/GAUNTLT/GAUNTLT
+
+
+
+
+
 
