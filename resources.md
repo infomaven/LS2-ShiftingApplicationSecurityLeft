@@ -93,6 +93,7 @@
 Delivered from perspective as a security specialist, but has lots of developer tips for security
 - the presentation
     https://www.youtube.com/watch?v=8kqtrX6C10c
+    
     https://github.com/shehackspurple/TTT-Pushing-Left
 
 ##### Cost of fixing issues
