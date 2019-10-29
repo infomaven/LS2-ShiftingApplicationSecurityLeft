@@ -5,7 +5,10 @@
 https://google-gruyere.appspot.com/
 
 ##### DevSlop
-https://www.youtube.com/watch?v=td-2rN4PgRw&feature=youtu.be
+https://www.youtube.com/watch?v=td-2rN4PgRw&feature=youtube
+https://github.com/DevSlop/Pixi.git
+https://www.owasp.org/index.php/OWASP_DevSlop_Project
+
 
 
 
