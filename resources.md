@@ -18,7 +18,7 @@
 
 
 ## Articles
-##### NIST container security 
+##### NIST container security
     https://www.nist.gov/publications/application-container-security-guide
 
 ##### Web Application security
@@ -30,7 +30,7 @@
 ##### Cloud Native Computing Foundations :  Kubernetes security audit, May 2019
     https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/
 
-##### Data security 
+##### Data security
     https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-1
 
     https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-2
@@ -75,7 +75,9 @@
 
 
 ## Culture Changes
-##### Read: The Phoenix Project 
+##### Read: The Phoenix Project
+Gene Kim (Author), Kevin Behr (Author), George Spafford (Author), Chris Ruen (Narrator), IT Revolution Press (Publisher)
+
 
 ##### CrossFunctional collaboration
     https://threatmodeler.com/how-to-create-cross-functional-collaboration/
@@ -86,10 +88,10 @@
 ##### DevSecOps using Open Source Software
     https://www.softwaresecured.com/open-source-apps-in-devsecops-pipeline/
 
-##### Great questions to ask about data  while designing 
+##### Great questions to ask about data  while designing
     https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-2
 
-##### Pushing Left like a Boss: Tanya Janca  
+##### Pushing Left like a Boss: Tanya Janca
 Delivered from perspective as a security specialist, but has lots of developer tips for security
 - the presentation
     https://www.youtube.com/watch?v=8kqtrX6C10c
@@ -104,6 +106,15 @@ Delivered from perspective as a security specialist, but has lots of developer t
 
 ##### Raise the bar on security awareness
     https://www.devopsdigest.com/train-security-champions-in-cross-functional-devops-teams-1
+
+##### Application threat modeling
+https://www.owasp.org/index.php/Application_Threat_Modeling
+
+##### Threat modeling methodolgies/solutions
+https://threatmodeler.com/threat-modeling-methodologies/
+
+##### STRIDE threat modeling cue cards (ThoughtWorks)
+https://thoughtworksinc.github.io/sensible-security-conversations/materials/Sensible_Agile_Threat_Modelling_Cards.pdf
 
 
 
@@ -142,7 +153,7 @@ Delivered from perspective as a security specialist, but has lots of developer t
 
 
 
-## Security Education 
+## Security Education
 ##### Coursera
     https://www.classcentral.com/course/secure-coding-principles-14478
 
@@ -174,11 +185,11 @@ Delivered from perspective as a security specialist, but has lots of developer t
 ##### Assemblyline [DAST]
     https://www.cyber.gc.ca/en/assemblyline
 
-##### Dynamic agent for Java [IAST][LOCAL] 
+##### Dynamic agent for Java [IAST][LOCAL]
     https://www.contrastsecurity.com/open-source-security-software
 
 ##### Instrumentation for application code
-    https://blog.sqreen.com/building-a-dynamic-instrumentation-agent-for-node-js/ 
+    https://blog.sqreen.com/building-a-dynamic-instrumentation-agent-for-node-js/
     ( also available for java, python)
 
 ##### java agent creation (general purpose)
@@ -219,7 +230,7 @@ Delivered from perspective as a security specialist, but has lots of developer t
 
 ## Security Testing Frameworks
 ##### Reapsaw [AUTOMATION]
-    https://github.com/dowjones/reapsaw/wiki 
+    https://github.com/dowjones/reapsaw/wiki
 
 ##### BDD-Security Testing Framework  [BLACKBOX][DAST][CI/CD][JAVA][AUTOMATION]
     https://iriusrisk.com/open-source/
