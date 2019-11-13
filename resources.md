@@ -17,9 +17,26 @@
 
 
 
+
 ## Articles
+##### Automated Security Testing ( a good overview with several entry points)
+    https://devops.com/automated-security-testing-continuous-delivery-pipeline/
+
+##### Cloud Native Computing Foundations :  Kubernetes security audit, May 2019
+    https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/#
+
+#### Data security
+    https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-1
+    https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-2
+
 ##### NIST container security
     https://www.nist.gov/publications/application-container-security-guide
+
+##### Security Testing Blog (resources for testing security of MOBILE apps)
+    https://testguild.com/security-testing/
+
+##### Tutorial on Git Hooks with a toy project
+    https://scotch.io/tutorials/using-git-hooks-in-your-development-workflow
 
 ##### Web Application security
     https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist
@@ -27,16 +44,8 @@
 ##### Web Application Security article
     https://www.martinfowler.com/articles/web-security-basics.html
 
-##### Cloud Native Computing Foundations :  Kubernetes security audit, May 2019
-    https://www.cncf.io/blog/2019/08/06/open-sourcing-the-kubernetes-security-audit/
 
-##### Data security
-    https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-1
 
-    https://www.devopsdigest.com/choosing-the-right-data-path-can-make-or-break-devops-projects-2
-
-##### Automated Security Testing ( a good overview with several entry points)
-    https://devops.com/automated-security-testing-continuous-delivery-pipeline/
 
 
 
@@ -58,7 +67,6 @@
         Official security capability docs
         https://docs.gitlab.com/ee/user/application_security/
 
-
 ##### GoCD Continuous Delivery  (Pipeline-based)
     https://wilsonmar.github.io/gocd/
 
@@ -68,16 +76,18 @@
 
     https://www.gocd.org/
 
-
 ##### Jenkins Continuous Integration demo pipeline w/security tests
     https://www.youtube.com/watch?v=okSoQAuuo6Y
+
+
+
+
 
 
 
 ## Culture Changes
 ##### Read: The Phoenix Project
 Gene Kim (Author), Kevin Behr (Author), George Spafford (Author), Chris Ruen (Narrator), IT Revolution Press (Publisher)
-
 
 ##### CrossFunctional collaboration
     https://threatmodeler.com/how-to-create-cross-functional-collaboration/
@@ -109,13 +119,15 @@ Delivered from perspective as a security specialist, but has lots of developer t
     https://www.devopsdigest.com/train-security-champions-in-cross-functional-devops-teams-1
 
 ##### Application threat modeling
-https://www.owasp.org/index.php/Application_Threat_Modeling
+    https://www.owasp.org/index.php/Application_Threat_Modeling
 
 ##### Threat modeling methodolgies/solutions
-https://threatmodeler.com/threat-modeling-methodologies/
+    https://threatmodeler.com/threat-modeling-methodologies/
 
 ##### STRIDE threat modeling cue cards (ThoughtWorks)
-https://thoughtworksinc.github.io/sensible-security-conversations/materials/Sensible_Agile_Threat_Modelling_Cards.pdf
+    https://thoughtworksinc.github.io/sensible-security-conversations/materials/Sensible_Agile_Threat_Modelling_Cards.pdf
+
+
 
 
 
@@ -144,12 +156,18 @@ https://thoughtworksinc.github.io/sensible-security-conversations/materials/Sens
 
 
 
+
+
+
+
 ## Public Speaking & Influence
 ##### How to be a more convincing speaker
     https://www.youtube.com/watch?v=02EJ1IdC6tE
 
 ##### "Train the Trainer" (Shift Left Like a Boss)
     https://www.youtube.com/watch?v=bWjPl-cKzFs
+
+
 
 
 
@@ -175,6 +193,9 @@ https://thoughtworksinc.github.io/sensible-security-conversations/materials/Sens
 
 ##### Checkmarx codebashing platform [PAID]
     https://free.codebashing.com/?__hssc=206289484.53.1569869732345&__hstc=206289484.47ed191a44bf131e9069f9140894f3b5.1569262188327.1569867790154.1569869732345.16&__hsfp=1489513261&hsCtaTracking=5d92d79e-18fd-460e-85ba-9a93f87c8f03%7C36cc087c-8f27-4993-a8d4-ee68c8ccfd96
+
+
+
 
 
 
@@ -224,6 +245,9 @@ https://thoughtworksinc.github.io/sensible-security-conversations/materials/Sens
 
 ##### Therapist git prePush hook
     https://therapist.readthedocs.io/en/latest/overview.html
+
+
+
 
 
 
