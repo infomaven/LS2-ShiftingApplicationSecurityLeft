@@ -1,19 +1,5 @@
 # OPEN SOURCE / FREE RESOURCES
 
-## Apps for hacking (yes, it is legal to attack these!)
-##### Gruyere Cheese
-    https://google-gruyere.appspot.com/
-
-##### DevSlop
-    https://www.youtube.com/watch?v=td-2rN4PgRw&feature=youtube
-
-    https://github.com/DevSlop/Pixi.git
-
-    https://www.owasp.org/index.php/OWASP_DevSlop_Project
-
-##### OWASP collection
-    https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
-
 
 
 
@@ -37,6 +23,10 @@
 
 ##### Tutorial on Git Hooks with a toy project
     https://scotch.io/tutorials/using-git-hooks-in-your-development-workflow
+
+##### Unfilled cybersecurity jobs
+https://www.whitehatsec.com/trending/content/unfilled-jobs-cyber-security
+https://snyk.io/blog/81-believe-developers-should-own-security-but-they-arent-well-equipped/
 
 ##### Web Application security
     https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist
@@ -251,8 +241,6 @@ Delivered from perspective as a security specialist, but has lots of developer t
 
 
 
-
-
 ## Security Testing Frameworks
 ##### Reapsaw [AUTOMATION]
     https://github.com/dowjones/reapsaw/wiki
@@ -268,6 +256,27 @@ Delivered from perspective as a security specialist, but has lots of developer t
     https://github.com/GAUNTLT/GAUNTLT
 
 
+
+
+
+## Vulnerable Applications
+##### DevSlop
+    https://www.youtube.com/watch?v=td-2rN4PgRw&feature=youtube
+    https://github.com/DevSlop/Pixi.git
+    https://www.owasp.org/index.php/OWASP_DevSlop_Project
+
+##### Gruyere Cheese
+    https://google-gruyere.appspot.com/
+
+##### OWASP collection
+    https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
+
+##### OWASP Juice Shop - JS heavy web application
+    https://www2.owasp.org/www-project-juice-shop/#div-main
+    https://juice-shop.herokuapp.com/#/
+
+##### OWASP Vulnerable Web Application
+    https://github.com/OWASP/Vulnerable-Web-Application
 
 
 
