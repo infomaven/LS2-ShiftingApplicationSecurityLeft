@@ -1,6 +1,5 @@
-# OPEN SOURCE / FREE RESOURCES
-
-
+# RESOURCES FOR SHIFT LEFT APPLICATION SECURITY 
+## Preference towards Open Source Software
 
 
 
@@ -18,15 +17,18 @@
 ##### NIST container security
     https://www.nist.gov/publications/application-container-security-guide
 
-##### Security Testing Blog (resources for testing security of MOBILE apps)
+##### SAST & DAST vs IAST: All you need to know about AST Tools
+    https://hdivsecurity.com/bornsecure/sast-dast-vs-iast-all-you-need-to-know-about-ast-tools/
+
+##### Security Testing Blog (list of tools for testing security of MOBILE apps)
     https://testguild.com/security-testing/
 
-##### Tutorial on Git Hooks with a toy project
+##### Tutorial on using Git Commit Hooks with a toy application
     https://scotch.io/tutorials/using-git-hooks-in-your-development-workflow
 
-##### Unfilled cybersecurity jobs
-https://www.whitehatsec.com/trending/content/unfilled-jobs-cyber-security
-https://snyk.io/blog/81-believe-developers-should-own-security-but-they-arent-well-equipped/
+##### Unfilled cybersecurity job statistics
+    https://www.whitehatsec.com/trending/content/unfilled-jobs-cyber-security
+    https://snyk.io/blog/81-believe-developers-should-own-security-but-they-arent-well-equipped/
 
 ##### Web Application security
     https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist
